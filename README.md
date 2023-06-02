@@ -25,7 +25,7 @@ The frontend project utilizes the following technologies and frameworks:
 
 To get started with the frontend project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-repository-url.git`
+1. Clone the repository: `git clone https://github.com/Disjes/bankui.git/'`
 2. Install the project dependencies by running: `yarn build`
 3. Update the API base URL in the configuration file to point to your backend API.
 4. Start the development server: `yarn start`
